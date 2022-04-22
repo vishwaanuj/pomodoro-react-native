@@ -3,4 +3,4 @@
 
 pomodoro focus app 
 
-<a href="https://user-images.githubusercontent.com/28966259/164784160-32073a37-59d3-47f9-915f-525808b29324.gif" title="preview"></a>
+!(https://user-images.githubusercontent.com/28966259/164784846-56e5cb7f-f548-4068-a5bc-ef9b5d72f29a.gif)
